@@ -1,6 +1,6 @@
 {
   "name": "@wandu/text2type-ini-converter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Library of functions for text conversion to data type based in INI config files",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
